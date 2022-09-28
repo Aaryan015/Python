@@ -9,3 +9,4 @@ def minion_game(string):
         print ('Kevin %d' % kevin)
     else:
         print ('Stuart %d' % stuart)
+        
